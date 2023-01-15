@@ -1,7 +1,9 @@
 # Programs to train the basics of Python
 Beginning projects developed from [Iury Rosal](https://www.youtube.com/@IuryRosal)'s classes with the purpose of putting Python knowledge into practice.
 
-## 1 - Quiz 📋
+## 🔨 Projects functionality
+
+### 1 - Quiz 📋
 Questionnaire designed for the user to test some of his theoretical knowledge of Python.
 
 ## 💻 Technologies used 
