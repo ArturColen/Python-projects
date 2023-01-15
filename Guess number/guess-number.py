@@ -1,4 +1,3 @@
-# Import random
 import random
 
 # Start the game
