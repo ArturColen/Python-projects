@@ -1,6 +1,6 @@
-# Start the game
+# Start the quiz
 print('********** Seja bem-vindo ao quiz de Python! **********\n')
-answer_user = input('Deseja começar o jogo? (S/N)\n')
+answer_user = input('Deseja começar o jogo? (S/N) ')
 
 if answer_user != 'S':
     quit()
