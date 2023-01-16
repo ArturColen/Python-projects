@@ -23,10 +23,16 @@ Project designed to run a countdown from the time chosen by the user.
 
 #
 
+### 5 - Password generator 🔑
+The program is designed to make it easy for the user to create a strong, random password when needed.
+
+#
+
 ## 💻 Technologies used 
 * [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
-* [Random](https://docs.python.org/pt-br/3.7/library/random.html): Generate random values to position the objects
+* [Random](https://docs.python.org/pt-br/3.7/library/random.html): generate random values to position the objects
 * [Time](https://docs.python.org/pt-br/3/library/time.html): control the duration time between actions
+* [String](https://docs.python.org/pt-br/3.9/library/string.html): generate character sets
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
