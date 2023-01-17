@@ -17,7 +17,7 @@ def password_generator(len_pass = 8):
     return password_user
 
 # Start the program
-print('********** Seja bem-vindo ao gerador de senha do Artur! **********\n')
+print('********** Seja bem-vindo ao password generator! **********\n')
 choice_user = input('Quantos digitos sua senha deve ter? ')
 
 # Verify that the password length entered by the user is valid

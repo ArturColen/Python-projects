@@ -1,7 +1,7 @@
 import random
 
 # Start the game
-print('**********Seja bem-vindo ao Guess Number do Artur!**********\n')
+print('**********Seja bem-vindo ao Guess Number!**********\n')
 choice_number = input('Digite o número teto do desafio: ')
 
 # Check if the entered value is numeric and generate the random number

@@ -1,7 +1,7 @@
 import time
 
 # Start the program
-print('********** Seja bem-vindo ao temporizador do Artur! **********\n')
+print('********** Seja bem-vindo ao timer! **********\n')
 
 t = input('Digite o tempo (em segundos): ')
 
