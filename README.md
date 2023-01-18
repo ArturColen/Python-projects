@@ -28,7 +28,7 @@ The program is designed to make it easy for the user to create a strong, random 
 
 #
 
-### 6 - Guess the date 📅
+### 6 - Guess the dates 📅
 The game is designed to train the user's knowledge, in which he must guess the dates of certain historical moments. 
 
 #
