@@ -33,6 +33,7 @@ The program is designed to make it easy for the user to create a strong, random 
 * [Random](https://docs.python.org/pt-br/3.7/library/random.html): generate random values to position the objects
 * [Time](https://docs.python.org/pt-br/3/library/time.html): control the duration time between actions
 * [String](https://docs.python.org/pt-br/3.9/library/string.html): generate character sets
+* [Json](https://docs.python.org/pt-br/3/library/json.html): access and manipulate data from a JSON file
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
