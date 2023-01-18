@@ -8,7 +8,7 @@ dates = json.load(file)
 choice_computer = random.choice(list(dates.keys()))
 
 # Start the game
-print('********** Seja bem-vindo ao Guess the date! **********\n')
+print('********** Seja bem-vindo ao Guess the dates! **********\n')
 answer_user = input('Deseja começar o quiz? (S/N) ').lower()
 
 if answer_user != 's':
