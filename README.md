@@ -28,6 +28,11 @@ The program is designed to make it easy for the user to create a strong, random 
 
 #
 
+### 6 - Guess the date 📅
+The game is designed to train the user's knowledge, in which he must guess the dates of certain historical moments. 
+
+#
+
 ## 💻 Technologies used 
 * [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [Random](https://docs.python.org/pt-br/3.7/library/random.html): generate random values to position the objects

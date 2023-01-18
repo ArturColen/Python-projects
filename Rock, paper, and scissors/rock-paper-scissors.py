@@ -48,6 +48,6 @@ print(f'\n{username} {user_points} X {computer_points} COMPUTADOR')
 if user_points > computer_points:
     print('\nParabéns! Você ganhou.')
 elif user_points < computer_points:
-    print('\nTá ruin, ein? Você perdeu.')
+    print('\nVocê perdeu! :(')
 else:
     print('\nEmpate!')
