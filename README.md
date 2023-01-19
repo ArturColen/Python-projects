@@ -44,6 +44,7 @@ Project created to analyze whether the date entered by the user has expired or n
 * [Time](https://docs.python.org/pt-br/3/library/time.html): control the duration time between actions
 * [String](https://docs.python.org/pt-br/3.9/library/string.html): generate character sets
 * [Json](https://docs.python.org/pt-br/3/library/json.html): access and manipulate data from a JSON file
+* [Datetime](https://docs.python.org/pt-br/3/library/datetime.html): manipulate dates and times
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
