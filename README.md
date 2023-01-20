@@ -49,6 +49,7 @@ The program designed to test whether words are palindromes, i.e. you can read fr
 * [Time](https://docs.python.org/pt-br/3/library/time.html): control the duration time between actions
 * [String](https://docs.python.org/pt-br/3.9/library/string.html): generate character sets
 * [Json](https://docs.python.org/pt-br/3/library/json.html): access and manipulate data from a JSON file
+* [Datetime](https://docs.python.org/pt-br/3/library/datetime.html): manipulate dates and times
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
