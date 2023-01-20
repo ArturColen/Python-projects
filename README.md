@@ -38,6 +38,11 @@ Project created to analyze whether the date entered by the user has expired or n
 
 #
 
+### 8 - Detect palindromes 🔄
+The program designed to test whether words are palindromes, i.e. you can read from left to right or vice versa.
+
+#
+
 ## 💻 Technologies used 
 * [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [Random](https://docs.python.org/pt-br/3.7/library/random.html): generate random values to position the objects
