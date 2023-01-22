@@ -2,7 +2,7 @@ import json
 import random
 
 # Access data from the JSON file
-file = open('Guess the dates\dates.json', encoding='utf8')
+file = open('dates.json', encoding='utf8')
 
 dates = json.load(file)
 choice_computer = random.choice(list(dates.keys()))

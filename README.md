@@ -43,6 +43,11 @@ The program designed to test whether words are palindromes, i.e. you can read fr
 
 #
 
+### 9 - Aquarium manager 🐠
+The project was developed with the intention of filtering and mapping the data in an aquarium. To do this, we used some dummy data in JSON format to place all animals of the type "fish" in aquarium number 42.
+
+#
+
 ## 💻 Technologies used 
 * [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [Random](https://docs.python.org/pt-br/3.7/library/random.html): generate random values to position the objects
