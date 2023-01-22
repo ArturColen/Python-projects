@@ -55,6 +55,7 @@ The project was developed with the intention of filtering and mapping the data i
 * [String](https://docs.python.org/pt-br/3.9/library/string.html): generate character sets
 * [Json](https://docs.python.org/pt-br/3/library/json.html): access and manipulate data from a JSON file
 * [Datetime](https://docs.python.org/pt-br/3/library/datetime.html): manipulate dates and times
+* [Math](https://docs.python.org/pt-br/3/library/math.html): access math functions
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
