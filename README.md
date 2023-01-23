@@ -44,7 +44,7 @@ The program designed to test whether words are palindromes, i.e. you can read fr
 #
 
 ### 9 - Aquarium manager 🐠
-The project was developed with the intention of filtering and mapping the data in an aquarium. To do this, we used some dummy data in JSON format to place all animals of the type "fish" in aquarium number 42.
+The project was developed with the intention of filtering and mapping the data in an aquarium. To do this, some dummy data in JSON format was used to place all animals of the type "fish" in the tank number 42. In addition, another program was created within this folder to be able to how many animals of each type are in the aquarium.
 
 #
 
@@ -56,6 +56,7 @@ The project was developed with the intention of filtering and mapping the data i
 * [Json](https://docs.python.org/pt-br/3/library/json.html): access and manipulate data from a JSON file
 * [Datetime](https://docs.python.org/pt-br/3/library/datetime.html): manipulate dates and times
 * [Math](https://docs.python.org/pt-br/3/library/math.html): access math functions
+* [Functools](https://docs.python.org/pt-br/3/library/functools.html): use higher-order functions
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
