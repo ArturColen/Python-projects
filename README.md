@@ -48,7 +48,7 @@ The project was developed with the intention of filtering and mapping the data i
 
 #
 
-### 10 - NBA data 🏀
+### 10 - NBA Data 🏀
 The program consists of displaying some of the key data of NBA teams and games from the consummation of an API.
 
 #
