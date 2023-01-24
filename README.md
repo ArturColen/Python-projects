@@ -48,6 +48,11 @@ The project was developed with the intention of filtering and mapping the data i
 
 #
 
+### 10 - NBA data 🏀
+The program consists of displaying some of the key data of NBA teams and games from the consummation of an API.
+
+#
+
 ## 💻 Technologies used 
 * [Python](https://docs.python.org/pt-br/3/tutorial/): programming language
 * [Random](https://docs.python.org/pt-br/3.7/library/random.html): generate random values to position the objects
@@ -57,6 +62,7 @@ The project was developed with the intention of filtering and mapping the data i
 * [Datetime](https://docs.python.org/pt-br/3/library/datetime.html): manipulate dates and times
 * [Math](https://docs.python.org/pt-br/3/library/math.html): access math functions
 * [Functools](https://docs.python.org/pt-br/3/library/functools.html): use higher-order functions
+* [Requests](https://requests.readthedocs.io/projects/pt/pt_BR/latest/user/quickstart.html): allows you to make requests to the API
 
 ## 📁 Access and execute project
 ### 1. Install [Python](https://www.python.org/downloads/) on your computer
@@ -69,3 +75,6 @@ The project was developed with the intention of filtering and mapping the data i
 
 ### 3. Run the program from the terminal
 * Open the terminal in the folder of the program you want to run and type: `python <filename ending in .py>`
+
+## ⚠️ Observation
+* Before running the **NBA Data** program, you must run the following command in the terminal: `pip install requests`
