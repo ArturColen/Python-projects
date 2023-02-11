@@ -83,6 +83,3 @@ Access the page [here](https://replit.com/@ArturColen/NBA-Data#main.py).
 * [Math](https://docs.python.org/pt-br/3/library/math.html): access math functions
 * [Functools](https://docs.python.org/pt-br/3/library/functools.html): use higher-order functions
 * [Requests](https://requests.readthedocs.io/projects/pt/pt_BR/latest/user/quickstart.html): allows you to make requests to the API
-
-## ⚠️ Observation
-* Before running the **NBA Data** program, you must run the following command in the terminal: `pip install requests`
